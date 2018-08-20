@@ -1,96 +1,26 @@
-📚 Awesome cheatsheets
+Cheatsheets
 =======
 
+## :zap:内容索引
+--------
 
-## 📚 Table of Contents
-
-### 📃 Languages
-
-<details>
-<summary>View cheatsheets</summary>
-
-#### Command line interface
-
-- [Bash](languages/bash.sh)
-
-#### Imperative
+### :page_with_curl:编程语言
 
 - [Bash](languages/bash.sh)
 - [Go](languages/golang.go)
 - [Php](languages/php.php)
 - [VimScript](languages/vimscript.md)
 
-#### Tools
+### :wrench:开发工具
 
 - [Gdb](tools/gdb.txt)
 - [Adb](tools/adb.txt)
 - [Tmux](tools/tmux.txt)
 
-</details>
-
-### 📦 Backend
-
-<details>
-<summary>View cheatsheets</summary>
-
-#### Python
-
-- [Django](backend/django.py)
-
-#### Javascript
-
-- [Feathers.js](backend/feathers.js)
-- [Moleculer](backend/moleculer.js)
-- [Node.js](backend/node.js)
-- [Sails.js](backend/sails.js)
-  </details>
-
-
-### 🗃️ Databases
-
-<details>
-<summary>View cheatsheets</summary>
-
-#### NoSQL
-
-- [Redis](databases/redis.sh)
-  </details>
-
-### 🔧 Tools
-
-<details>
-<summary>View cheatsheets</summary>
-
-#### Development
-
-- [VIM](tools/vim.txt)
-- [Xcode](tools/xcode.txt)
-- [Gdb](tools/gdb.txt)
-- [Adb](tools/adb.txt)
-- [Tmux](tools/tmux.txt)
-
-#### Infrastructure
-
-- [Docker](tools/docker.sh)
-- [Kubernetes](tools/kubernetes.sh)
-- [Nanobox Boxfile](tools/nanobox_boxfile.yml)
-- [Nanobox CLI](tools/nanobox_cli.sh)
-
-
-### 🔧 Editors
-
-<details>
-<summary>View cheatsheets</summary>
-
-#### :pencil:文本编辑
+### :pencil:文本编辑
 
 - [VIM](editors/vim.txt)
 - [Nano](editors/nano.txt)
-
-## 🙌🏼 How to Contribute?
-
-You are more than welcome to contribute and build your own cheatsheet for your favorite programming language, framework or development tool. Just submit changes via pull request and I will review them before merging.
-
 
   This is a hyperlink to [Google](http://google.com).
 
