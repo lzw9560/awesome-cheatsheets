@@ -28,20 +28,15 @@
   * [SubMenu Item 3](subitem3.md)
   - - - -
 
-
-
-
-
 [gimmick:theme (inverse: false)](spacelab)
 
 [gimmick:ThemeChooser](Change theme)
 
-[gimmick:forkmeongithub](https://github.com/lzw9560/awesome-cheatsheets)
 
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
 
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-44627253-1']);
@@ -53,11 +48,12 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>
-<!-- [gimmick:forkmeongithub](https://github.com/daijiale/ipfs-wiki-system/) -->
+</script> -->
+
+[gimmick:forkmeongithub](https://github.com/lzw9560/awesome-cheatsheets)
 
 
-<!-- [gimmick:theme (inverse: true)](bootstrap) -->
+[gimmick:theme (inverse: true)](bootstrap)
 
 [🔍]()
 
