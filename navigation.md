@@ -10,8 +10,6 @@
 
  * [Python](languages/python.md)
   - - - -
- * [vimscript.md](languages/vimscript.md)
-  - - - -
  * [Bash](languages/bash.md)
   - - - -
  * [Go](languages/golang.md)
