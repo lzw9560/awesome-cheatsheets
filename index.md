@@ -6,21 +6,21 @@ Awesome Cheatsheets
 
 ### 📃 编程语言
 
-- [Bash](languages/bash.sh)
-- [Go](languages/golang.go)
-- [Php](languages/php.php)
+- [Bash](languages/bash.md)
+- [Go](languages/golang.md)
+- [Php](languages/php.md)
 - [VimScript](languages/vimscript.md)
 
 ### 🔧 开发工具
 
-- [Gdb](tools/gdb.txt)
-- [Adb](tools/adb.txt)
-- [Tmux](tools/tmux.txt)
+- [Gdb](tools/gdb.md)
+- [Adb](tools/adb.md)
+- [Tmux](tools/tmux.md)
 
 ### ⌨️ 文本编辑
 
-- [VIM](editors/vim.txt)
-- [Nano](editors/nano.txt)
+- [VIM](editors/vim.md)
+- [Nano](editors/nano.md)
 
 ![cover_github@2x.png](https://i.loli.net/2018/08/20/5b7a48e0b8d67.png)
 
