@@ -5,7 +5,7 @@ Languages
 ----------
 
   * [Python](languages/python.md)
-  * [Golang](languages/go.md)
+  <!-- * [Golang](languages/go.md) -->
   * list item 2
 
   This is a hyperlink to [Google](http://google.com).
