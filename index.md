@@ -4,8 +4,8 @@ Cheatsheets
 Languages
 ----------
 
-  <!-- * [Python](languages/python.md) -->
-  <!-- * [Golang](languages/go.md) -->
+  * [Python](languages/python.md) 
+  * [Golang](languages/golang.go)
   * list item 1
   * list item 2
 
