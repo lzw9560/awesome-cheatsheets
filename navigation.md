@@ -28,7 +28,7 @@
   * [Tmux](tools/tmux.md)
 
 
-[editors](editors)
+[editors]()
 
   * [VIM](editors/vim.md)
   - - - -
