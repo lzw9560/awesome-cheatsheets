@@ -1,12 +1,12 @@
 # Awesome Cheatsheets
 
 
-[index](index.md)
+<!-- [index](index.md) -->
 [简介](README.md)
 
 
 
-[languages]()
+[Languages]()
 
  * [Python](languages/python.md)
   - - - -
@@ -19,7 +19,7 @@
  * [VimScript](languages/vimscript.md) 
 
 
-[tools]()
+[Tools]()
 
   * [Gdb](tools/gdb.md)
   - - - -
@@ -28,7 +28,7 @@
   * [Tmux](tools/tmux.md)
 
 
-[editors]()
+[Editors]()
 
   * [VIM](editors/vim.md)
   - - - -
