@@ -1,10 +1,11 @@
-Heading
+Cheatsheets
 =======
 
-SubHeading
+Languages
 ----------
 
-  * list item 1
+  * [Python](languages/python.md)
+  * [Golang](languages/go.md)
   * list item 2
 
   This is a hyperlink to [Google](http://google.com).
