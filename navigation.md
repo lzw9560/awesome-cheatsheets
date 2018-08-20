@@ -22,13 +22,16 @@
 [tools]()
 
   * [Gdb](tools/gdb.md)
+  - - - -
   * [Adb](tools/adb.md)
+  - - - -
   * [Tmux](tools/tmux.md)
 
 
 [editors](editors)
 
   * [VIM](editors/vim.md)
+  - - - -
   * [Nano](editors/nano.md)
 
 
