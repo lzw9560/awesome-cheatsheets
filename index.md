@@ -22,9 +22,6 @@ Cheatsheets
 - [VIM](editors/vim.txt)
 - [Nano](editors/nano.txt)
 
-  This is a hyperlink to [Google](http://google.com).
+![cover_github@2x.png](https://i.loli.net/2018/08/20/5b7a48e0b8d67.png)
 
-  ![cover_github@2x.png](https://i.loli.net/2018/08/20/5b7a48e0b8d67.png)
-
-
-[gimmick:Disqus](disqus_LAurYI4T4f)
+<!-- [gimmick:Disqus](disqus_LAurYI4T4f) -->
