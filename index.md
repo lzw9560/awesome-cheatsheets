@@ -9,6 +9,7 @@ Awesome Cheatsheets
 - [Bash](languages/bash.md)
 - [Go](languages/golang.md)
 - [Php](languages/php.md)
+- [Python](languages/Python.md)
 - [VimScript](languages/vimscript.md)
 
 ### 🔧 开发工具

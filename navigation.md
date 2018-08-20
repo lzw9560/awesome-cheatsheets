@@ -3,10 +3,7 @@
 
 [index](index.md)
 [简介](README.md)
-[editors](editors)
 
- *[vim](editors/vim.txt)
-[tools](tools)
 
 
 [languages]()
@@ -15,18 +12,27 @@
   - - - -
  * [vimscript.md](languages/vimscript.md)
   - - - -
- 
+ * [Bash](languages/bash.md)
+  - - - -
+ * [Go](languages/golang.md)
+  - - - -
+ * [Php](languages/php.md)
+  - - - -
+ * [VimScript](languages/vimscript.md) 
 
 
 [tools]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
-  - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
-  - - - -
+  * [Gdb](tools/gdb.md)
+  * [Adb](tools/adb.md)
+  * [Tmux](tools/tmux.md)
+
+
+[editors](editors)
+
+  * [VIM](editors/vim.md)
+  * [Nano](editors/nano.md)
+
 
 [gimmick:theme (inverse: false)](spacelab)
 
