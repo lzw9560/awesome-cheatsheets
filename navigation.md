@@ -1,10 +1,7 @@
 # Awesome Cheatsheets
 
 
-<!-- [index](index.md) -->
 [简介](README.md)
-
-
 
 [Languages]()
 
@@ -17,6 +14,7 @@
  * [Php](languages/php.md)
   - - - -
  * [VimScript](languages/vimscript.md) 
+  - - - -
 
 
 [Tools]()
@@ -26,6 +24,7 @@
   * [Adb](tools/adb.md)
   - - - -
   * [Tmux](tools/tmux.md)
+  - - - -
 
 
 [Editors]()
@@ -33,6 +32,9 @@
   * [VIM](editors/vim.md)
   - - - -
   * [Nano](editors/nano.md)
+  - - - -
+
+
 
 
 [gimmick:theme (inverse: false)](spacelab)
