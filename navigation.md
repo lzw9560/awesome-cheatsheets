@@ -36,7 +36,7 @@
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-44627253-1']);
@@ -48,12 +48,12 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script> -->
+</script>
 
 [gimmick:forkmeongithub](https://github.com/lzw9560/awesome-cheatsheets)
 
 
-[gimmick:theme (inverse: true)](bootstrap)
+<!-- [gimmick:theme (inverse: true)](bootstrap) -->
 
 [🔍]()
 

@@ -4,8 +4,9 @@ Cheatsheets
 Languages
 ----------
 
-  * [Python](languages/python.md)
+  <!-- * [Python](languages/python.md) -->
   <!-- * [Golang](languages/go.md) -->
+  * list item 1
   * list item 2
 
   This is a hyperlink to [Google](http://google.com).
