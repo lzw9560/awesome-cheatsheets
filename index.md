@@ -1,23 +1,23 @@
 Cheatsheets
 =======
 
-## :zap:内容索引
+## 📚 内容索引
 --------
 
-### :page_with_curl:编程语言
+### 📃 编程语言
 
 - [Bash](languages/bash.sh)
 - [Go](languages/golang.go)
 - [Php](languages/php.php)
 - [VimScript](languages/vimscript.md)
 
-### :wrench:开发工具
+### 🔧 开发工具
 
 - [Gdb](tools/gdb.txt)
 - [Adb](tools/adb.txt)
 - [Tmux](tools/tmux.txt)
 
-### :pencil:文本编辑
+### ⌨️ 文本编辑
 
 - [VIM](editors/vim.txt)
 - [Nano](editors/nano.txt)
