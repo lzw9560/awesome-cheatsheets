@@ -1,4 +1,4 @@
-# Cheatsheets
+Cheatsheets
 =======
 
 Languages
@@ -13,4 +13,3 @@ Languages
   Images are like hyperlinks, but with an exclamation mark in front of them:
   ![cover_github@2x.png](https://i.loli.net/2018/08/20/5b7a48e0b8d67.png)
 
-  
